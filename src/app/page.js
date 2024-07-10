@@ -58,7 +58,7 @@ export default function Component() {
 
 
 
-<DynamicBackground rows={11} cols={12} /> {/* Add this line */}
+<DynamicBackground rows={5} cols={4} /> {/* Add this line */}
 
 
 
@@ -113,7 +113,7 @@ export default function Component() {
 
 
 
-<h3 className="text-6xl font-bold text-black text-center mt-32 my-12">Querés trabajar con nosotros?</h3>
+<h3 className="text-6xl font-bold text-black text-center mt-12 md:mt-32 my-4 md:my-12">Querés trabajar con nosotros?</h3>
 
 
 
