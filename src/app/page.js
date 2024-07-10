@@ -58,7 +58,7 @@ export default function Component() {
 
 
 
-<DynamicBackground rows={3} cols={4} /> {/* Add this line */}
+<DynamicBackground rows={11} cols={12} /> {/* Add this line */}
 
 
 
@@ -74,7 +74,7 @@ export default function Component() {
 
 
 
-      <div className="flex flex-col justify-center items-center m-1 sm:m-4 mb-12  ">
+      <div className="flex flex-col justify-center items-center m-12 sm:m-12 mb-12  ">
 
 <div className="bg-white  w-[99%]  sm:w-[66%] rotate-1 rounded-lg mt-4 shadow-lg  border-8   border-[#34d399] rounded-xl overflow-hidden animate-border-color-change">
   <div className="p-2 sm:p-8 ">
